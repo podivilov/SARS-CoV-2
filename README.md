@@ -1,5 +1,5 @@
-# Covid-19
-Covid-19 coronavirus complete genome
+# SARS-CoV-2
+SARS-CoV-2 coronavirus complete genome
 
 ```
 CCAACTTTCGATCTCTTGTAGATCTGTTCTCTAAACGAACTTTAAAATCTGTGTGGCTGTCACTCGGCTG
